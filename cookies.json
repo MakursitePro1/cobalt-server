@@ -1,0 +1,52 @@
+[
+  {
+    "domain": ".instagram.com",
+    "name": "sessionid",
+    "value": "80164776063%3AoPU5WeNDF7unea%3A5%3AAYh3eOyfl26p2aber2nRDFjoaA-iPeMPibR1D3rJeg",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  },
+  {
+    "domain": ".instagram.com",
+    "name": "ds_user_id",
+    "value": "80164776063",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "domain": ".instagram.com",
+    "name": "csrftoken",
+    "value": "Yw2j5qwVn8-NUzNgD5hI1F",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "domain": ".instagram.com",
+    "name": "mid",
+    "value": "aY3nrQAEAAHG8Zxh4y1C0Yq2eLf_",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "domain": ".instagram.com",
+    "name": "ig_did",
+    "value": "9F8CF948-A363-4D68-A202-0F6A209C07DC",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "domain": ".instagram.com",
+    "name": "datr",
+    "value": "q-eNaWFZgyO6Uu90l2ps_jbc",
+    "path": "/",
+    "secure": true
+  },
+  {
+    "domain": ".instagram.com",
+    "name": "rur",
+    "value": "VLL",
+    "path": "/",
+    "secure": true
+  }
+]
